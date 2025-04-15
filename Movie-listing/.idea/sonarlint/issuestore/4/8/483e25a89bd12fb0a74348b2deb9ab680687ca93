@@ -1,0 +1,5 @@
+
+7
+java:S1220""Move this file to a named package.8‡É¸Ãã2
+o
+java:S62046"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(Ó‰çë8¦É¸Ãã2
